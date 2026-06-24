@@ -173,7 +173,7 @@ if menu == "Home":
             ✉️ &nbsp; hq_2026@syededgempire
         </div>
         <div style="background-color: #6C7D93; color: white; padding: 12px; border-radius: 6px; text-align: center; font-weight: 500;">
-            🌐 &nbsp; www.syededgeplus.com
+            🌐 &nbsp; syededgeplusweb.streamlit.app
         </div>
     </div>
     """, unsafe_allow_html=True)
@@ -432,7 +432,7 @@ elif menu == "Contact Us":
             <h5 style="color: #1A365D; margin-top:0; font-weight:bold;">Corporate Desk</h5>
             <p style="font-size:14px;"><b>📍 Headquarters:</b><br>Kota Tinggi, Johor, Malaysia.</p>
             <p style="font-size:14px;"><b>✉️ Email Contact:</b><br>hq_2026@syededgempire</p>
-            <p style="font-size:14px;"><b>🌐 Web Domain:</b><br>www.syededgeplus.com</p>
+            <p style="font-size:14px;"><b>🌐 Web Domain:</b><br>syededgeplusweb.streamlit.app</p>
             <hr style="margin: 10px 0;">
             <p style="font-size:12.5px; color:#666666;"><b>Operations Hours:</b><br>Sunday - Thursday<br>9:00 AM - 5:00 PM (Johor Working Days)</p>
         </div>
