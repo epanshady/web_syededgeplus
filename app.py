@@ -193,7 +193,7 @@ elif menu == "About Us":
         <div class="corporate-card">
             <h4 style="margin-top:0;">SyedEdge Plus</h4>
             <p style="text-align: justify; line-height: 1.6;">
-                SyedEdge Plus was established in May 2026 in Kota Tinggi, Johor by two young entrepreneurs, 
+                SyedEdge Plus was established in April 2026 in Kota Tinggi, Johor by two young entrepreneurs, 
                 Syed Muhammad Irfan Bin Syed Abd Razib and Muhammad Imran Hakim Bin Latif.
             </p>
             <p style="text-align: justify; line-height: 1.6;">
