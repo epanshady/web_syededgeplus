@@ -429,7 +429,7 @@ elif menu == "Contact Us":
     with col_c2:
         st.markdown("""
         <div style="background-color: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #e2e8f0; color: #333333;">
-            <h5 style="color: #1A365D; margin-top:0; font-weight:bold;">Corporate Desk</h5>
+            <h5 style="color: #1A365D; margin-top:0; font-weight:bold;">Our Contact Information</h5>
             <p style="font-size:14px;"><b>📍 Headquarters:</b><br>Kota Tinggi, Johor, Malaysia.</p>
             <p style="font-size:14px;"><b>✉️ Email Contact:</b><br>hq_2026@syededgempire</p>
             <p style="font-size:14px;"><b>🌐 Web Domain:</b><br>syededgeplusweb.streamlit.app</p>
