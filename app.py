@@ -347,7 +347,7 @@ elif menu == "Certificates":
                 <h5 style="color: #1A365D; margin-top:0; font-weight:bold;">Entity Verification:</h5>
                 <p style="font-size: 14px; margin-bottom: 8px;"><b>Company Name:</b> SyedEdge Plus</p>
                 <p style="font-size: 14px; margin-bottom: 8px;"><b>Registration Status:</b> Active Legal Entity</p>
-                <p style="font-size: 14px; margin-bottom: 8px;"><b>Incorporation Date:</b> May 2026</p>
+                <p style="font-size: 14px; margin-bottom: 8px;"><b>Incorporation Date:</b> April 2026</p>
                 <span style="color: #48BB78; font-weight:bold; font-size:14px;">● Verifiable Corporate Supplier</span>
             </div>
             """, unsafe_allow_html=True)
